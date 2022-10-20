@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-319
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jami idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-312
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jami Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-320
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Jami idle alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-321
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jami Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-320
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jami Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-318
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jami Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jami-Dressed",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "Jasho",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		153,
+		240
+	],
+	"camera_position": [
+		70,
+		370
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

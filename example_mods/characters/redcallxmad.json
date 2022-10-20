@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Redcall Mad Idle"
+		},
+		{
+			"offsets": [
+				-97,
+				-345
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Redcall Mad Down"
+		},
+		{
+			"offsets": [
+				-39,
+				-341
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Redcall Mad Left"
+		},
+		{
+			"offsets": [
+				-101,
+				-340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Redcall Mad Right"
+		},
+		{
+			"offsets": [
+				-100,
+				-331
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Redcall Mad Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redcallxmad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-60,
+		410
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hj idle"
+		},
+		{
+			"offsets": [
+				390,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hj left"
+		},
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hj down"
+		},
+		{
+			"offsets": [
+				-50,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hj up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "hj right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hj alt right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hj",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jamiele",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		153,
+		0
+	],
+	"camera_position": [
+		0,
+		-20
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

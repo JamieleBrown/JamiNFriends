@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Critical.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Critical Down0000" x="0" y="0" width="459" height="580" frameX="0" frameY="-17" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0001" x="0" y="0" width="459" height="580" frameX="0" frameY="-17" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0002" x="459" y="0" width="456" height="587" frameX="-2" frameY="-10" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0003" x="459" y="0" width="456" height="587" frameX="-2" frameY="-10" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0004" x="915" y="0" width="452" height="594" frameX="-6" frameY="-3" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0005" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0006" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0007" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0008" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0009" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0010" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0011" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0012" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0013" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0014" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0015" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0016" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0017" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0018" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Down0019" x="1367" y="0" width="452" height="597" frameX="-6" frameY="0" frameWidth="459" frameHeight="597"/>
+	<SubTexture name="Critical Idle animation0000" x="1819" y="0" width="689" height="628" frameX="-6" frameY="-22" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0001" x="1819" y="0" width="689" height="628" frameX="-6" frameY="-22" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0002" x="2508" y="0" width="689" height="633" frameX="-2" frameY="-17" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0003" x="2508" y="0" width="689" height="633" frameX="-2" frameY="-17" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0004" x="3197" y="0" width="687" height="643" frameX="-1" frameY="-7" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0005" x="3197" y="0" width="687" height="643" frameX="-1" frameY="-7" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0006" x="0" y="643" width="681" height="649" frameX="0" frameY="-1" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0007" x="0" y="643" width="681" height="649" frameX="0" frameY="-1" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0008" x="681" y="643" width="677" height="650" frameX="-1" frameY="0" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0009" x="681" y="643" width="677" height="650" frameX="-1" frameY="0" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0010" x="681" y="643" width="677" height="650" frameX="-1" frameY="0" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0011" x="681" y="643" width="677" height="650" frameX="-1" frameY="0" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0012" x="681" y="643" width="677" height="650" frameX="-1" frameY="0" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Idle animation0013" x="681" y="643" width="677" height="650" frameX="-1" frameY="0" frameWidth="695" frameHeight="650"/>
+	<SubTexture name="Critical Left0000" x="1358" y="643" width="522" height="600"/>
+	<SubTexture name="Critical Left0001" x="1358" y="643" width="522" height="600"/>
+	<SubTexture name="Critical Left0002" x="1880" y="643" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0003" x="1880" y="643" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0004" x="2397" y="643" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0005" x="2397" y="643" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0006" x="2914" y="643" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0007" x="2914" y="643" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0008" x="3431" y="643" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0009" x="3431" y="643" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0010" x="0" y="1293" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0011" x="0" y="1293" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0012" x="517" y="1293" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0013" x="517" y="1293" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical Left0014" x="1034" y="1293" width="517" height="600" frameX="-4" frameY="0" frameWidth="522" frameHeight="600"/>
+	<SubTexture name="Critical RIght0000" x="1551" y="1293" width="661" height="631" frameX="0" frameY="-1" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0001" x="1551" y="1293" width="661" height="631" frameX="0" frameY="-1" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0002" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0003" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0004" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0005" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0006" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0007" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0008" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0009" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0010" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0011" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0012" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0013" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical RIght0014" x="2212" y="1293" width="657" height="632" frameX="-10" frameY="0" frameWidth="667" frameHeight="632"/>
+	<SubTexture name="Critical Up0000" x="2869" y="1293" width="487" height="636" frameX="-90" frameY="0" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0001" x="3356" y="1293" width="488" height="636" frameX="-89" frameY="0" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0002" x="0" y="1929" width="567" height="635" frameX="-5" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0003" x="0" y="1929" width="567" height="635" frameX="-5" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0004" x="567" y="1929" width="568" height="635" frameX="-4" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0005" x="567" y="1929" width="568" height="635" frameX="-4" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0006" x="1135" y="1929" width="568" height="635" frameX="-4" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0007" x="1135" y="1929" width="568" height="635" frameX="-4" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0008" x="1703" y="1929" width="570" height="635" frameX="-2" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0009" x="1703" y="1929" width="570" height="635" frameX="-2" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0010" x="2273" y="1929" width="571" height="635" frameX="-1" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0011" x="2273" y="1929" width="571" height="635" frameX="-1" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0012" x="2844" y="1929" width="572" height="635" frameX="0" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0013" x="2844" y="1929" width="572" height="635" frameX="0" frameY="-2" frameWidth="577" frameHeight="637"/>
+	<SubTexture name="Critical Up0014" x="3416" y="1929" width="572" height="635" frameX="0" frameY="-2" frameWidth="577" frameHeight="637"/>
+</TextureAtlas>

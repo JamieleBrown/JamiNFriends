@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Redcall idle dance"
+		},
+		{
+			"offsets": [
+				-59,
+				-341
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Redcall Left"
+		},
+		{
+			"offsets": [
+				-97,
+				-345
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Redcall Down"
+		},
+		{
+			"offsets": [
+				-100,
+				-331
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Redcall Up"
+		},
+		{
+			"offsets": [
+				-101,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Redcall Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redcallx",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-60,
+		410
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
