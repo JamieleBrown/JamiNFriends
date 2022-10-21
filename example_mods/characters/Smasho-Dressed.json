@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-320
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Smasho idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-320
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Smasho idle alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-313
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Smasho Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-321
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Smasho Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-320
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Smasho Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-318
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Smasho Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Smasho-Dressed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		201
+	],
+	"camera_position": [
+		0,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

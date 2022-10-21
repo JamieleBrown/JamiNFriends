@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Smasho-Dressed.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Smasho Down0000" x="1" y="1" width="382" height="401" frameX="0" frameY="-9" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0001" x="1" y="1" width="382" height="401" frameX="0" frameY="-9" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0002" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0003" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0004" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0005" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0006" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0007" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0008" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0009" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0010" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0011" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0012" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Down0013" x="402" y="1" width="381" height="410" frameX="-3" frameY="0" frameWidth="384" frameHeight="410"/>
+	<SubTexture name="Smasho Left0000" x="802" y="1" width="359" height="413" frameX="0" frameY="0" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0001" x="802" y="1" width="359" height="413" frameX="0" frameY="0" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0002" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0003" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0004" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0005" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0006" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0007" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0008" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0009" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0010" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0011" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0012" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Left0013" x="1180" y="1" width="370" height="412" frameX="-2" frameY="-1" frameWidth="372" frameHeight="413"/>
+	<SubTexture name="Smasho Right0000" x="1569" y="1" width="392" height="410" frameX="-1" frameY="-1" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0001" x="1569" y="1" width="392" height="410" frameX="-1" frameY="-1" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0002" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0003" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0004" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0005" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0006" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0007" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0008" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0009" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0010" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0011" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0012" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Right0013" x="1" y="433" width="383" height="411" frameX="0" frameY="0" frameWidth="393" frameHeight="411"/>
+	<SubTexture name="Smasho Up0000" x="403" y="433" width="382" height="419" frameX="-3" frameY="0" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0001" x="403" y="433" width="382" height="419" frameX="-3" frameY="0" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0002" x="804" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0003" x="804" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0004" x="1207" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0005" x="1207" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0006" x="804" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0007" x="804" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0008" x="1207" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0009" x="1207" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0010" x="804" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0011" x="804" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0012" x="1207" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho Up0013" x="1207" y="433" width="384" height="414" frameX="0" frameY="-5" frameWidth="385" frameHeight="419"/>
+	<SubTexture name="Smasho idle alt0000" x="1610" y="433" width="374" height="393" frameX="0" frameY="-19" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0001" x="1610" y="433" width="374" height="393" frameX="0" frameY="-19" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0002" x="1" y="871" width="374" height="394" frameX="-1" frameY="-18" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0003" x="1" y="871" width="374" height="394" frameX="-1" frameY="-18" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0004" x="394" y="871" width="372" height="399" frameX="-3" frameY="-13" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0005" x="394" y="871" width="372" height="399" frameX="-3" frameY="-13" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0006" x="785" y="871" width="375" height="411" frameX="-3" frameY="-1" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0007" x="785" y="871" width="375" height="411" frameX="-3" frameY="-1" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0008" x="1179" y="871" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0009" x="1179" y="871" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0010" x="1179" y="871" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0011" x="1179" y="871" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0012" x="1179" y="871" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle alt0013" x="1179" y="871" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0000" x="1573" y="871" width="374" height="393" frameX="0" frameY="-19" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0001" x="1573" y="871" width="374" height="393" frameX="0" frameY="-19" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0002" x="1" y="1302" width="374" height="394" frameX="-1" frameY="-18" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0003" x="1" y="1302" width="374" height="394" frameX="-1" frameY="-18" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0004" x="394" y="1302" width="372" height="399" frameX="-3" frameY="-13" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0005" x="394" y="1302" width="372" height="399" frameX="-3" frameY="-13" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0006" x="785" y="1302" width="375" height="411" frameX="-3" frameY="-1" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0007" x="785" y="1302" width="375" height="411" frameX="-3" frameY="-1" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0008" x="1179" y="1302" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0009" x="1179" y="1302" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0010" x="1179" y="1302" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0011" x="1179" y="1302" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0012" x="1179" y="1302" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+	<SubTexture name="Smasho idle dance0013" x="1179" y="1302" width="375" height="412" frameX="-3" frameY="0" frameWidth="378" frameHeight="412"/>
+</TextureAtlas>

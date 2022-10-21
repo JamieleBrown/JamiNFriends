@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-369
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dark Bf Idle"
+		},
+		{
+			"offsets": [
+				1,
+				-365
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dark Bf Right"
+		},
+		{
+			"offsets": [
+				-70,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dark Bf Up"
+		},
+		{
+			"offsets": [
+				-42,
+				-390
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dark Bf Down"
+		},
+		{
+			"offsets": [
+				-20,
+				-364
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dark Bf Left"
+		},
+		{
+			"offsets": [
+				-30,
+				-341
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Dark bBf Hey!"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dark Bf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Dark-Bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		70,
+		31,
+		121
+	],
+	"camera_position": [
+		-80,
+		360
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Jami vs Friends",
+	"difficulties": "Legacy,Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Interaction",
+			"smasho opp",
+			[
+				255,
+				159,
+				2
+			]
+		],
+		[
+			"Friendly encounter",
+			"critiquee",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"Overheated",
+			"Fire",
+			[
+				146,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "JvS"
+}

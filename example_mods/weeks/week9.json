@@ -1,0 +1,41 @@
+{
+	"storyName": "Guy's Night out",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Guys Night Out",
+			"jasho",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Personal Rebound",
+			"Jamiele",
+			[
+				175,
+				255,
+				215
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Three Guys Funkin' and Fries"
+}

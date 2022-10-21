@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-smasho.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Icon-smasho-hand0000" x="10" y="10" width="128" height="93" frameX="0" frameY="-19" frameWidth="128" frameHeight="112"/>
+	<SubTexture name="Icon-smasho-hand0001" x="177" y="10" width="86" height="108" frameX="-24" frameY="0" frameWidth="128" frameHeight="112"/>
+</TextureAtlas>
