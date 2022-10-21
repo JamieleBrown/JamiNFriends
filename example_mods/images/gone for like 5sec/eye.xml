@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="eye.png">
-	<!-- Created with Adobe Animate version 22.0.3.179 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="eye0000" x="100" y="100" width="894" height="742"/>
-	<SubTexture name="eye0001" x="1094" y="100" width="894" height="742"/>
-	<SubTexture name="eye0002" x="2088" y="100" width="894" height="742"/>
-	<SubTexture name="eye0003" x="3082" y="100" width="894" height="742"/>
-</TextureAtlas>
